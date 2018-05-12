@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32022#A-Problem-in-Greek-Ethics--13-Being-an-inquiry-into-the-phenomenon-of-sexual-inversion-addres_
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
 identifiers:
